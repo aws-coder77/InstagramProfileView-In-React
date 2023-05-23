@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/InstagramProfileView-In-React/static/css/main.80abc7b4.css",
+    "main.js": "/InstagramProfileView-In-React/static/js/main.dc12360f.js",
+    "static/js/787.6e3ddd60.chunk.js": "/InstagramProfileView-In-React/static/js/787.6e3ddd60.chunk.js",
+    "index.html": "/InstagramProfileView-In-React/index.html",
+    "main.80abc7b4.css.map": "/InstagramProfileView-In-React/static/css/main.80abc7b4.css.map",
+    "main.dc12360f.js.map": "/InstagramProfileView-In-React/static/js/main.dc12360f.js.map",
+    "787.6e3ddd60.chunk.js.map": "/InstagramProfileView-In-React/static/js/787.6e3ddd60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80abc7b4.css",
+    "static/js/main.dc12360f.js"
+  ]
+}
